@@ -1,5 +1,3 @@
-# [MSE Lab](https://github.com/MulticellularSystemsLab) calcium cartography Python code
-
 ![](simulation_Demo_Output.gif)
 
 This is a repository for the associated Python code for the manuscript titled: From spikes to intercellular waves: tuning intercellular Ca2+ signaling dynamics modulates organ size control. The code was built by [Dr. Ramezan Paravi Torghabeh](https://www.linkedin.com/in/ramezan-paravi-torghabeh-phd-b432baa0/). The code was then later updated and adapted for creation of the figures in the manuscript by [Francisco Huizar](https://www.linkedin.com/in/francisco-huizar-82bb1a127/). Experimental work and validation was led by [Dharsan Soundarrajan](https://scholar.google.com/citations?user=AWv4OiIAAAAJ&hl=en). This work was done within the [Multicellular Systems Engineering Lab](http://sites.nd.edu/zartmanlab/) at the University of Notre Dame. Please direct any questions to the lab principal investigator, [Dr. Jeremiah Zartman](http://sites.nd.edu/zartmanlab/contacts/). 
