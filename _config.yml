@@ -1,3 +1,5 @@
-title: Multicellular Systems and Engineering Lab
-description: This is a code repository for the manuscript titled: From spikes to intercellular waves: tuning intercellular Ca2+ signaling dynamics modulates organ size control.
+title: Cayman theme
+description: Cayman is a clean, responsive theme for GitHub Pages.
+show_downloads: true
+google_analytics:
 theme: jekyll-theme-cayman
