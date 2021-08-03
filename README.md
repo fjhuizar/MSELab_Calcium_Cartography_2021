@@ -19,8 +19,7 @@ Anyone can run a sample of the code used in the manuscript by using the [Google 
 ![](/Installation_Instructions/Step_Two.png)
 3. Navigate to and open the extracted folder
 ![](/Installation_Instructions/Step_Three.png)
-4. Within the now extracted folder extract the 'stochastic.zip' and 'geometry.zip' folders as well
-![](/Installation_Instructions/Step_Four.1.png)
+4. Within the now extracted folder extract the 'geometry.zip' folder as well
 ![](/Installation_Instructions/Step_Four.2.png)
 5. Open and run Jupyter Notebook
 6. Navigate in the Jupyter Notebook host to where the extracted files are
